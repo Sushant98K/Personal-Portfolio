@@ -13,16 +13,16 @@ const navbar = () => {
         </a>
       </div>
       <div className="flex items-center justify-center gap-4 m-8 text-2xl">
-        <a href="https://www.linkedin.com/in/sushant98k/">
+        <a href="https://www.linkedin.com/in/sushant98k/" target="_blank">
           <FaLinkedin />
         </a>
-        <a href="https://github.com/Sushant98K">
+        <a href="https://github.com/Sushant98K" target="_blank">
           <FaGithubSquare />
         </a>
-        <a href="https://x.com/ig_ToyBreaker?s=09">
+        <a href="https://x.com/ig_ToyBreaker?s=09" target="_blank">
           <FaSquareXTwitter />
         </a>
-        <a href="https://www.instagram.com/ig_toybreaker?igsh=MTJqc2VmdnYzNDVzOA==">
+        <a href="https://www.instagram.com/ig_toybreaker?igsh=MTJqc2VmdnYzNDVzOA==" target="_blank">
           <FaSquareInstagram />
         </a>
       </div>
