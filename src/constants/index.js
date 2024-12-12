@@ -52,7 +52,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+    technologies: ["SQL", "MySQL", "CLI"],
     link: "https://github.com/Sushant98K/Library_Management_system_SQL",
   },
   {
@@ -60,7 +60,7 @@ export const PROJECTS = [
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["React", "Tailwind", "Framer-motion"],
     link: "https://github.com/Sushant98K/Personal-Portfolio",
   },
   {
@@ -68,7 +68,7 @@ export const PROJECTS = [
     image: project4,
     description:
       "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+    technologies: ["HTML", "CSS", "Javascript"],
     link: "https://github.com/Sushant98K/Creative-Design-Agency-Website",
   },
 ];
