@@ -10,10 +10,10 @@ export const ABOUT_TEXT = `Lorem ipsum dolor sit amet consectetur adipisicing el
 export const EDUCATION = [
   {
     year: "2024 - Present",
-    role: " Full Stack Developer",
+    role: " Full Stack Python Developer",
     company: " ITVedant",
     description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga culpa ratione dolor tempora perspiciatis vero iure, at consequuntur laudantium quam autem dolorum necessitatibus! Totam veritatis eos veniam deserunt quae quasi?`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    technologies: ["Javascript", "React.js", "Python", "DJango"],
   },
   {
     year: "2018 - 2022",
