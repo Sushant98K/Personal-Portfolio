@@ -5,7 +5,7 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am a Computer Engineer. Bringing forth a motivated attitude and a variety of powerful skills. Adept in various social media platforms and office technology programs. Committed to utilizing my skills to further the mission of a company.`;
 
-export const ABOUT_TEXT = `Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga culpa ratione dolor tempora perspiciatis vero iure, at consequuntur laudantium quam autem dolorum necessitatibus! Totam veritatis eos veniam deserunt quae quasi?`;
+export const ABOUT_TEXT = `Motivated Full Stack Developer proficient in Python, Django, React, and SQL. Passionate about building scalable web applications, optimizing performance, and enhancing user experiences. Skilled in backend development, RESTful APIs, database management, and front-end frameworks. Strong problem-solving abilities with experience in e-commerce platforms, authentication systems, and payment integrations. Eager to apply technical expertise and continuously learn in a dynamic development environment.`;
 
 export const EDUCATION = [
   {
