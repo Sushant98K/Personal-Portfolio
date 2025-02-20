@@ -43,9 +43,9 @@ export const PROJECTS = [
     title: "E-Commerce Website",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Pyhton", "DJango"],
-    link: "https://github.com/Sushant98K/E-commerce-Website-DJango",
+      "Developed a fully functional e-commerce platform using Django, Python, MySQL, and Razorpay for payment integration.",
+    technologies: ["HTML", "CSS", "JavaScript", "Pyhton", "DJango", "MySQL", "Razorpay"],
+    link: "https://github.com/Sushant98K/awesome-django-ecommerce-website",
   },
   {
     title: "Library Management system SQL",
