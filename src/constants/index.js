@@ -44,7 +44,15 @@ export const PROJECTS = [
     image: project1,
     description:
       "Developed a fully functional e-commerce platform using Django, Python, MySQL, and Razorpay for payment integration.",
-    technologies: ["HTML", "CSS", "JavaScript", "Pyhton", "DJango", "MySQL", "Razorpay"],
+    technologies: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Pyhton",
+      "DJango",
+      "MySQL",
+      "Razorpay",
+    ],
     link: "https://github.com/Sushant98K/awesome-django-ecommerce-website",
   },
   {
@@ -67,7 +75,7 @@ export const PROJECTS = [
     title: "Design Agency Website",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "Designed and developed a sleek, modern design agency website using HTML, CSS, and JavaScript",
     technologies: ["HTML", "CSS", "Javascript"],
     link: "https://github.com/Sushant98K/Creative-Design-Agency-Website",
   },
